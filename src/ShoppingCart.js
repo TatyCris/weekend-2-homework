@@ -26,14 +26,4 @@ class ShoppingCart {
 
 }
 
-// const cart = new ShoppingCart();
-// cart.addItem('rice', 1, 1.09);
-// cart.addItem('beans', 1, 2.00);
-// cart.addItem('beer', 6, 0.70);
-// console.log(cart.getItems());
-// console.log(cart.total());
-// cart.clear();
-// console.log(cart.getItems());
-
-
 module.exports = ShoppingCart;
